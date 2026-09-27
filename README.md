@@ -15,9 +15,9 @@ Copy of this file lives as `AGENTS.md` in every project repo.
 ## 1. Who I am
 
 - Christos Megapanos — plastic surgeon (Athens, Greece) and, first and foremost, an entrepreneur.
-- I run DRM Clinic (aesthetic surgery: blepharoplasty, VASER HD liposuction), operating under three legal entities: DRM IKE, Total Prevention, DRM Regen Medical. 13-person team.
-- Co-founder of Mentest (men's health brand).
-- Public presence: Instagram @christosmegapanos (~100K).
+- I run DRM Clinic (aesthetic surgery: blepharoplasty, VASER HD liposuction), operating under three legal entities: DRM IKE, Total Prevention, DRM Laser center, DrMegapanos Managment holding. 13-person team.
+- Co-founder of Mentest (men's health brand) and GM clinic.
+- Public presence: Instagram @christosmegapanos (~120K).
 - I spend my free time thinking and working on the business side, not the surgical side. I build companies and grow them.
 - I am obsessed with automation and AI. The end state I want: the whole business runs on protocols and automations, and I supervise.
 
